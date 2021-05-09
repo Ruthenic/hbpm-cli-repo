@@ -1,5 +1,5 @@
 {
-	packages: [
+	"packages": [
 		{
 			"title": "wosfetch"
 			"manifestUrl": "https://github.com/Ruthenic/wosfetch/releases/latest/download/wosfetch.manifest.json"
