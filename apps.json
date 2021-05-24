@@ -6,7 +6,7 @@
 		},
 		{
 			"title": "hbpm",
-			"manifestUrl": "https://github.com/Ruthenic/webos-hbpm/releases/download/0.1.0/hbpm.manifest.json"
+			"manifestUrl": "https://github.com/Ruthenic/webos-hbpm/releases/latest/download/hbpm.manifest.json"
 		}
 	]
 }
